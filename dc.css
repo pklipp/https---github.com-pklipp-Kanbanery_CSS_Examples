@@ -1,0 +1,10 @@
+#header {
+  background-color: RGB(40, 115, 190) !important;
+}
+body {
+  font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+  
+}
+a.toggle {
+  background-color: black;
+}
